@@ -11,6 +11,7 @@ public class Gui {
 		int sum = num1+num2;
 int hola;
 //System.
+//kajsdhfkjsadhfkhasdklfjhsadkjlfhsalkdjfhs
 		
 		JOptionPane.showMessageDialog(null, "This are te result"+sum, "Sum", JOptionPane.PLAIN_MESSAGE);
 
