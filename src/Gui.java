@@ -9,7 +9,7 @@ public class Gui {
 		int num1 = Integer.parseInt(fn);
 		int num2 = Integer.parseInt(sn);
 		int sum = num1+num2;
-		System.out.println("hola");
+
 		
 		JOptionPane.showMessageDialog(null, "This are te result"+sum, "Sum", JOptionPane.PLAIN_MESSAGE);
 
