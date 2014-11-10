@@ -10,6 +10,7 @@ public class Gui {
 		int num2 = Integer.parseInt(sn);
 		int sum = num1+num2;
 int hola;
+System.out.println("hola");
 		
 		JOptionPane.showMessageDialog(null, "This are te result"+sum, "Sum", JOptionPane.PLAIN_MESSAGE);
 
